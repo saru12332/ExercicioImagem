@@ -1,2 +1,7 @@
 # ExercicioImagem
 CRIE UM PROGRAMA QUE MONTE UMA MATRIZ 16X16, CONFORME A IMAGEM ABAIXO. AO INICIAR O PROGRAMA O USUÁRIO PODERÁ INSERIR 4 CORES QUE SÃO: BRANCO, ZERO (0); PRETO,  UM (1); VERMELHO, DOIS (2) E BEGE, TRÊS (3).  AO INICIAR O PROGRAMA O USUÁRIO PODERÁ INSERIR CADA NÚMERO CORRESPONDENTE A IMAGEM SEGUINDO A CADA LINHA, AO TÉRMINO IMPRIMA NA TELA OS VALORES CONFORME A FIGURA.
+------------------------------------------------------
+
+![MediaFundamental (1)](https://user-images.githubusercontent.com/103973651/173485650-7bd947bb-b109-4433-98e3-204cb8c1d694.png)
+
+------------------------------------------------------
